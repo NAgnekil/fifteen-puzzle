@@ -3,7 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Script
 
 För att köra projektet, använd `npm start`
+
 Öppna i browsern [http://localhost:3000](http://localhost:3000)
+
 Sidan uppdateras när du gör ändringar i koden.
 
 ## Kommentarer
