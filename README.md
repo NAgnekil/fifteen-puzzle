@@ -12,14 +12,4 @@ Sidan uppdateras när du gör ändringar i koden.
 
 I vanliga fall använder jag oftast Sass till min stylesheet, då jag tycker det är mer effektivt och lättförståeligt. Men till denna lilla konstruktion så gjorde jag bara allt i CSS. Jag brukar också för det mesta stylea med flexbox istället för grid, men såg en chans att lära mig något nytt.
 
-Jag har inte lyckats med uppgiften att flytta två brickor.
-
-Jag har behövt lära mig en hel del om grid och om Math-funktionerna. Jag är inte 100% säker på vad de gör, men det funkar ju ;) Det är huvudsaken.
-
 Man kan absolut stylea i rem, istället för fasta pixlar. Har valt att inte göra det för att enklare få mer kontroll, men det är ju en preferens.
-
-Jag är mest nöjd med att jag klarade uppgiften över huvud taget! :D
-
-Måste erkänna att det var en klurig uppgift för mig, som inte är så bra på matte! Men det var en chans att lära mig något nytt.
-
-Det tog ändå ett par timmar, kanske 6-7, men det är för att jag provade olika alternativ och behövde läsa på om bland annat Math-funktionerna och göra annan research.
